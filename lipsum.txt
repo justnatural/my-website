@@ -1,6 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse vitae augue lobortis, vulputate libero sed, finibus nibh.
-Integer dictum quam id nulla convallis suscipit. Nullam vitae fermentum erat. In urna sapien, consequat eu dolor eu, volutpat euismod leo.
-Duis et ex sit amet justo aliquam finibus. Mauris volutpat risus ac pulvinar sodales. Morbi lacinia porttitor justo,
-quis placerat urna iaculis eu. Etiam id laoreet odio. Sed ultricies diam ac porttitor luctus. Etiam ornare neque quis orci auctor,
-sed iaculis justo faucibus.
